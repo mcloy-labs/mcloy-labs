@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://mcloy-portfolio.vercel.app"><img alt="Live" src="https://img.shields.io/badge/live-mcloy--portfolio.vercel.app-915EFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/mcloy-labs"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-mcloy--labs-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:marcel.mcloy.eng2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-marcel.mcloy.eng2-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:marcel.mcloy.eng@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-marcel.mcloy.eng2-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/marcel-mcloy"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-marcel--mcloy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -189,7 +189,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-mcloy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcel.mcloy.eng2@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcel.mcloy.eng@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcloy-labs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00e5a0?style=for-the-badge&logo=vercel&logoColor=black)](https://mcloy-portfolio.vercel.app)
 
