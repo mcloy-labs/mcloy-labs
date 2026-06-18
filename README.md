@@ -2,7 +2,7 @@
 
 <!-- ══════════════ HEADER BANNER ══════════════ -->
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003d33,100:00e5a0&height=220&section=header&text=Marcel%20Mcloy&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Senior%20Full%20Stack%20Engineer%20%E2%9A%A1%20Founding%20Engineer%20%E2%80%94%20AI%2FLLM%20%26%20Cloud&descSize=16&descAlignY=62&descColor=8b949e&animation=fadeIn)](https://github.com/mcloy-labs)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003d33,100:00e5a0&height=220&section=header&text=Marcel%20Mcloy&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Senior%20Full%20Stack%20Engineer%20%E2%9A%A1%20Founding%20Engineer%20%E2%80%94%20AI%2FLLM%20and%20Cloud&descSize=16&descAlignY=62&descColor=8b949e&animation=fadeIn)](https://github.com/mcloy-labs)
 
 <!-- ══════════════ ANIMATED BANNER GIF ══════════════ -->
 
@@ -10,7 +10,7 @@
 
 <!-- ══════════════ TYPING SVG ══════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I%27m+Marcel+Mcloy!;Senior+Full+Stack+%2F+AI+Engineer+%F0%9F%9A%80;10%2B+years+%C2%B7+Real-time+%26+High-throughput+Systems;LLM+apps+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+AI%2FML;React+%C2%B7+Next.js+%C2%B7+Django+%C2%B7+AWS+%C2%B7+GCP;Founding+Engineer+%E2%80%94+0%E2%86%921+Product+Builder+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I%27m+Marcel+Mcloy!;Senior+Full+Stack+%2F+AI+Engineer+%F0%9F%9A%80;10%2B+years+%C2%B7+Real-time+and+High-throughput+Systems;LLM+apps+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+AI%2FML;React+%C2%B7+Next.js+%C2%B7+Django+%C2%B7+AWS+%C2%B7+GCP;Founding+Engineer+%E2%80%94+0%E2%86%921+Product+Builder+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <!-- ══════════════ BADGES ══════════════ -->
 
